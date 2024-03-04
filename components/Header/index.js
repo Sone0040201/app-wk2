@@ -21,15 +21,15 @@ const styles = StyleSheet.create({
     backgroundColor: "lightgray",
     justifyContent: "center",
     alignItems: "center",
-    height: 60,
+    height: 50,
     shadowColor: "#000",
-    shadowOffset: { width: 0, height: 2 },
+    shadowOffset: { width: 0, height: 5 },
     shadowOpacity: 0.2,
     elevation: 2,
   },
   textStyle: {
-    fontSize: 32,
-    fontWeight: "500",
+    fontSize: 24,
+    fontWeight: "bold",
   },
 });
 
