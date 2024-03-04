@@ -18,13 +18,5 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: "#f8f8f8",
     paddingHorizontal: 10,
-  },
-  hr: {
-    borderBottomColor: "lightgray",
-    borderBottomWidth: 1,
-    marginTop: 20,
-    width: "100%",
-    alignSelf: "center",
-  },
-
+  }
 });
