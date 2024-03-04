@@ -18,8 +18,8 @@ const Albumlist = () => {
 const styles = StyleSheet.create({
     row: {
         marginTop: 70,
-        paddingHorizontal: 20,
-    },
+        paddingHorizontal: 20
+    }
 });
 
 export default Albumlist;
