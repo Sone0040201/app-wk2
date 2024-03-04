@@ -22,15 +22,15 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
     height: 50,
-    shadowColor: "#000",
+    shadowColor: "#380401",
     shadowOffset: { width: 0, height: 5 },
     shadowOpacity: 0.2,
-    elevation: 2,
+    elevation: 2
   },
   textStyle: {
     fontSize: 24,
-    fontWeight: "bold",
-  },
+    fontWeight: "bold"
+  }
 });
 
 export default Header;
